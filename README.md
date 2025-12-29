@@ -25,7 +25,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ### 📈 Visualization & BI
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A9FD4?style=flat)
 
