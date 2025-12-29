@@ -25,7 +25,7 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ### 📈 Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A9FD4?style=flat)
 
