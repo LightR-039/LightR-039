@@ -3,13 +3,12 @@
 <h1 align="left">Hi, I'm Huy Hoang 👋</h1>
 
 <p align="center">
-  📊 Data Analyst | 📈 Business Intelligence | 🧠 Financial Data Analyst  
+   Data Analyst | Business Intelligence | Financial Data Analyst | AI/ML  
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 📍 Based in **Dublin, Ireland**
 - 🔍 Interested in **data analysis, financial analytics, and business intelligence**
 - 💡 Passionate about transforming raw data into actionable insights
 - 🛠 Experience with academic and practical data-driven projects
