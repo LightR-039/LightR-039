@@ -3,7 +3,7 @@
 <h1 align="left">Hi, I'm Huy Hoang 👋</h1>
 
 <p align="center">
-   Data Analyst | Business Intelligence | Financial Data Analyst | AI/ML  
+   Data Analyst | Financial Data Analyst | AI/ML  
 </p>
 
 ---
